@@ -1,1 +1,1 @@
-This will be reworked as soon as I´m done with understanding backend and uploaded seperatly.
+This will be reworked as soon as I´m done understanding backend and uploaded seperatly.
